@@ -1,6 +1,6 @@
 FROM php:7-fpm
 
-MAINTAINER Mehrdad Dadkhah <mehrdad@dadkhah.me>
+MAINTAINER Dao Anh Khoa khoada <khoada@lifetimetech.vn>
 
 RUN apt-get update && apt-get install -y \
         libfreetype6-dev \
